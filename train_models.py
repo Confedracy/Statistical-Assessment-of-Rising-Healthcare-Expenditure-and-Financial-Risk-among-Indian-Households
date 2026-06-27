@@ -3,7 +3,6 @@
 """
 train_models.py
 ===============
-Run ONCE before launching the Streamlit app.
 
     python train_models.py
 
@@ -127,5 +126,4 @@ if __name__ == "__main__":
 
     print("\n" + "=" * 55)
     print("  All done! Launch the app with:")
-    print("  streamlit run app.py")
     print("=" * 55)
