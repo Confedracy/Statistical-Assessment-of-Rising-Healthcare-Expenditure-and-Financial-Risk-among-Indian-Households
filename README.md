@@ -1,4 +1,4 @@
-# Statistical-Assessment-of-Rising-Healthcare-Expenditure-and-Financial-Risk-among-Indian-Households
+# Statistical Assessment of Rising Healthcare Expenditure and Financial Risk-among Indian Households
 
 The project combines statistical modeling and machine learning techniques to analyze healthcare spending patterns, Catastrophic Health Expenditure (CHE), distress financing, and poverty impacts.
 
