@@ -90,13 +90,6 @@ This script will:
 - Cache results to disk for fast page loads
 - Generate feature importance files and performance metrics
 
-### 5. Launch the Application
-
-```bash
-streamlit run app.py
-```
-
-The app will open at `http://localhost:8501/`
 
 ---
 
@@ -152,6 +145,7 @@ Models the logarithm of Out-of-Pocket Expenditure (OOPE) conditional on positive
 
 ## Tools Used
 
+- **Microsoft Excel** -Data Extraction and Validation
 - **Python** — Core language
 - **Pandas & NumPy** — Data manipulation
 - **Statsmodels** — Statistical modeling (GLM)
