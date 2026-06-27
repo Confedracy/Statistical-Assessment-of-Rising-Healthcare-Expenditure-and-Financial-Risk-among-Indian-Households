@@ -1,6 +1,5 @@
 # Statistical-Assessment-of-Rising-Healthcare-Expenditure-and-Financial-Risk-among-Indian-Households
 
-# Medical Expenditure Determinants and Prediction
 The project combines statistical modeling and machine learning techniques to analyze healthcare spending patterns, Catastrophic Health Expenditure (CHE), distress financing, and poverty impacts.
 
 ---
